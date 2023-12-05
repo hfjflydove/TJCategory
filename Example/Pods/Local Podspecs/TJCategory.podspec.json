@@ -1,0 +1,22 @@
+{
+  "name": "TJCategory",
+  "version": "0.1.0",
+  "summary": "A short description of TJCategory.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hefeijiang/TJCategory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hefeijiang": "hefeijiang@tojoy.com"
+  },
+  "source": {
+    "git": "https://github.com/hefeijiang/TJCategory.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "TJCategory/Classes/**/*"
+}

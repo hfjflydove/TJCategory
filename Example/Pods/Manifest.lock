@@ -1,0 +1,16 @@
+PODS:
+  - TJCategory (0.1.0)
+
+DEPENDENCIES:
+  - TJCategory (from `../`)
+
+EXTERNAL SOURCES:
+  TJCategory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TJCategory: 7b7196c8bd62450f6355f5f7b4168ca2322fa4f5
+
+PODFILE CHECKSUM: 6a26347816c64f3fc510a14413899c21596fb389
+
+COCOAPODS: 1.14.2
